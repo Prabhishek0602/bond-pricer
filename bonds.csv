@@ -1,0 +1,5 @@
+name,settlement,maturity,coupon_rate,face_value,ytm
+BondA,2024-03-01,2028-09-01,0.05,100,0.06
+BondB,2024-03-01,2027-03-01,0.04,100,0.05
+BondC,2024-03-01,2026-03-01,0.06,100,0.055
+
